@@ -11,6 +11,7 @@ import java.util.*;
 
 public class ex10869 {
 
+
     public static void main(String[] args){
 
         Scanner scan = new Scanner(System.in);
@@ -25,5 +26,8 @@ public class ex10869 {
 
     }
 }
+
+
+
 
 
